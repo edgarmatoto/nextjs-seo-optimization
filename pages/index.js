@@ -34,7 +34,7 @@ export default function Start({ countries }) {
         </h1>
 
         <div className={styles.heroImage}>
-          <Image src="large-image.jpg" alt="Large Image" width={3048} height={2024} />
+          <Image src="/large-image.jpg" alt="Large Image" width={3048} height={2024} />
         </div>
 
         <div>
